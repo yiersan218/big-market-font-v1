@@ -1,0 +1,1 @@
+docker build -t yiersan218/big-market-front-app:3.0 .
